@@ -1,4 +1,4 @@
 BaiduMap
 ========
 
-Baidu Map 2.4.1
+Baidu Map 2.5.0
